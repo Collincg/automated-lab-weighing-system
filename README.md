@@ -22,7 +22,7 @@ This project eliminates that bottleneck entirely. The operator loads a tray of s
 
 ## Demo
 
-![Weighing in Action](images/weighing_in_action.jpg)
+[![Demo Video](https://img.youtube.com/vi/iki5KH_45rE/maxresdefault.jpg)](https://youtube.com/shorts/iki5KH_45rE?feature=share)
 *System automatically positioning and weighing samples during a live run*
 
 ---
@@ -135,20 +135,3 @@ Requirements were gathered directly from lab technicians — the people who perf
 - [ ] Vision-based sample detection to verify tray loading before a run starts
 - [ ] Closed-loop error handling (retry on unstable scale reading, alert on missed position)
 
----
-
-## Repository Structure
-
-```
-.
-├── README.md
-└── images/
-    ├── system_overview.jpg
-    └── weighing_in_action.jpg
-```
-
----
-
-## Background
-
-Built as an internal tool for a soil testing laboratory. The system was designed, fabricated, and programmed by one engineer, working directly with lab staff to define requirements and validate performance.
