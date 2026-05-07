@@ -2,7 +2,7 @@
 
 > A fully functional laboratory automation system that replaces a 6-step manual weighing workflow with a single operator action — load a tray and walk away.
 
-![System Overview](images/system_overview.jpg)
+![System Overview](images/system_overview.jpeg)
 *Assembled gantry system deployed in soil lab*
 
 ---
